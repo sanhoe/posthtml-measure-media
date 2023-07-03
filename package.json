@@ -1,0 +1,32 @@
+{
+  "name": "posthtml-measure-media",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PostHTML plugin for setting width and height attributes to images and videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanhoe/posthtml-measure-media.git"
+  },
+  "keywords": [
+    "html",
+    "posthtml",
+    "posthtml-plugin",
+    "img",
+    "image",
+    "video",
+    "picture",
+    "width",
+    "height",
+    "cls"
+  ],
+  "author": "sanhoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanhoe/posthtml-measure-media/issues"
+  },
+  "homepage": "https://github.com/sanhoe/posthtml-measure-media#readme"
+}
